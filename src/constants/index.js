@@ -16,10 +16,8 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  mfsys,
+  ideometrix,
   carrent,
   jobit,
   tripguide,
@@ -123,7 +121,7 @@ const experiences = [
   {
     title: 'Software Engineer',
     company_name: 'MFSYS Technologies PVT Ltd.',
-    icon: starbucks,
+    icon: mfsys,
     iconBg: '#383E56',
     date: 'January 2022 - Present',
     points: [
@@ -136,35 +134,9 @@ const experiences = [
   {
     title: 'MERN Stack Engineer',
     company_name: 'IDEOMETRIX',
-    icon: tesla,
+    icon: ideometrix,
     iconBg: '#E6DEDD',
     date: 'Jan 2021 - January 2022',
-    points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
-    ],
-  },
-  {
-    title: 'MERN Stack Internee',
-    company_name: 'FirstFligt',
-    icon: shopify,
-    iconBg: '#383E56',
-    date: 'October 2020 - Jan 2021',
-    points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
-    ],
-  },
-  {
-    title: 'Graphic Designing',
-    company_name: 'Fiverr',
-    icon: meta,
-    iconBg: '#E6DEDD',
-    date: '2016 - Present',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
